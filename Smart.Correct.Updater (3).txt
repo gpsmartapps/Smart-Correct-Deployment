@@ -1,0 +1,17 @@
+;aiu;
+
+[Smart Correct Updater]
+Name = Smart Correct
+ProductVersion = 1.0.0.0
+URL = https://bit.ly/InstallSCE
+Size = 10740120
+MD5 = db31fc14d812ea3567a904f7f9129ad2
+ServerFileName = Smart Correct Installer.exe
+Flags = Sys64
+RegistryKey = HKUD\Software\OgCorp\Smart Correct\Version
+Version = 2.0.0.0
+Description = Bug fixes and enhancements.
+Feature = Photo croping and resizing.
+Feature1 = Live capturing.
+Feature2 = Biometric integration.
+BugFix = Unable to crop .png files.
